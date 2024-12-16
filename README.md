@@ -112,7 +112,7 @@ the system and what all are the diseases predicted by the system.*
 Clone the project
 
 ```bash
-  git clone https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System
+  git clone https://github.com/thejaswinijp/Heart-Desease-Prediction-System
 ```
 
 Go to the project directory
